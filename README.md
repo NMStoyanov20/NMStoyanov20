@@ -1,6 +1,8 @@
 # Hi, my name is [Nikola Stoyanov](https://github.com/NMStoyanov20/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nmstoyanov20&label=Profile%20views&color=0e75b6&style=flat" alt="nmstoyanov20" /> </p>
+
+
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" />
 
 ## Talking about Personal Stuffs:
