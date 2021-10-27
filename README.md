@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmstoyanov20&label=Profile%20views&color=0e75b6&style=flat" alt="nmstoyanov20" /> </p>
 
 
-<img align="right" height="250" width="250" alt="" src="https://media.giphy.com/media/ffd0F6WNcRJMQ/giphy.gif" />
+<img align="right" height="250" width="390" alt="" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-## Talking about Personal Stuffs:
+### Talking about Personal Stuffs:
 
 - 『👋』『 I’m currently learning HTML5&CSS3 and C++. 』
 - 『💻』『 Most of my projects are available on [Github](https://github.com/NMStoyanov20?tab=repositories). 』
@@ -24,6 +24,7 @@
 <code><img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" ></code>
 
 <hr>
+
 ### Projects and Dev Stuffs:
 
 <details>	
@@ -49,6 +50,6 @@
   <hr>
 <div align="center">
 
-# Foucus on yourself not others!
+# Focus on yourself not others!
 
 </div>
