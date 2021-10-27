@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmstoyanov20&label=Profile%20views&color=0e75b6&style=flat" alt="nmstoyanov20" /> </p>
 
 
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" />
+<img align="right" height="250" width="250" alt="" src="https://media.giphy.com/media/ffd0F6WNcRJMQ/giphy.gif" />
 
 ## Talking about Personal Stuffs:
 
