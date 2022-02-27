@@ -7,7 +7,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 『👋』『 I’m currently learning HTML5&CSS3 and C++. 』
+- 『👋』『 I’m currently learning C++, JavaScript and HTML&CSS . 』
 - 『💻』『 Most of my projects are available on [Github](https://github.com/NMStoyanov20?tab=repositories). 』
 - 『👨‍💻』『 Fun fact: I like to learn new stuff. 』
 - 『✉️』『 How to contact me: NMStoyanov20@codingburgas.bg 』
