@@ -5,7 +5,7 @@
 
 <img align="right" height="250" width="390" alt="" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
 - 『👋』『 I’m currently learning C++, JavaScript and HTML&CSS . 』
 - 『💻』『 Most of my projects are available on [Github](https://github.com/NMStoyanov20?tab=repositories). 』
@@ -26,7 +26,7 @@
 
 <hr>
 
-### Projects and Dev Stuffs:
+### Projects and Dev Stuff:
 
 <details>	
   <summary><b>『📈』Github Stats</b></summary>
